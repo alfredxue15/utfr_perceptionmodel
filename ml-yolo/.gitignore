@@ -1,0 +1,7 @@
+api_key
+yolov7/scripts
+simulation
+**.tga
+src/cones/*.csv
+src/cones/*.png
+**.swp
