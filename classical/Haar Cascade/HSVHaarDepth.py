@@ -180,7 +180,7 @@ while(cap_right.isOpened() and cap_left.isOpened()):
         
         # Multiply computer value with 205.8 to get real-life depth in [cm]. The factor was found manually.
         print("Depth: ", str(round(depth,1)))
-
+#test
     end = time.time()
     totalTime = end - start
 
