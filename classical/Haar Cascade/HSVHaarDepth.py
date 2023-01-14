@@ -71,8 +71,7 @@ def claheHSV(image):
 
 ########## Function for colour labelling ###########
 
-# TODO: make a faster colour labelling algorithm
-# https://data-flair.training/blogs/project-in-python-colour-detection/
+
 def labelColour(image, HSV_image, x, y, w, h):
     blue_count = 0
     yellow_count = 0
